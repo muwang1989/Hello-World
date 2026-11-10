@@ -1,2 +1,2 @@
 # hello-world
-Hello! This is a short bio about myself:)
+Hello everyone! This is a short bio about myself:)
